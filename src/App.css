@@ -1,3 +1,5 @@
+
+
 /* google fonts */
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap");
 
@@ -61,4 +63,9 @@ img {
 
 section {
   padding: 60px 0px;
+}
+
+.section__title {
+    color: var(--primary-color);
+    font-weight: 600;
 }
