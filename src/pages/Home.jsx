@@ -42,7 +42,7 @@ const Home = () => {
                                     Lorem ipsum dolor, sit amet consectetur
                                     adipisicing elit. Adipisci asperiores nihil
                                     voluptatem nam dolor fuga quibusdam porro,
-                                    enim voluptates sint
+                                    enim voluptates sin
                                 </p>
 
                                 <motion.button
