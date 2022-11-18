@@ -23,7 +23,7 @@ const Services = () => {
                                     <i class={item.icon}></i>
                                 </span>
                                 <div>
-                                    <h3>{item.title}</h3>
+                                    <h3 style={{ fontSize: "15px"}}>{item.title}</h3>
                                     <p>{item.subtitle}</p>
                                 </div>
                             </motion.div>
